@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Google Homepage" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-15T03:36:22" hostname="L-SFO1HSFD58-M" time="5.368">
+  <properties/>
+  <testcase name="Check that main elements on Google Homepage are displayed" classname="Google Homepage" time="5.368"/>
+  <system-out><![CDATA[Search text box is displayed
+Google Search button is NOT displayed
+I'm Feeling Lucky button is NOT displayed
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 6095
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 14, 2020 8:36:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
